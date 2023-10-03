@@ -1,0 +1,11 @@
+G:\code\visual studio\Calculator11\Calculator11\bin\Debug\Calculator11.exe.config
+G:\code\visual studio\Calculator11\Calculator11\bin\Debug\Calculator11.exe
+G:\code\visual studio\Calculator11\Calculator11\bin\Debug\Calculator11.pdb
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.csproj.AssemblyReference.cache
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.csproj.SuggestedBindingRedirects.cache
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.Form1.resources
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.Properties.Resources.resources
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.csproj.GenerateResource.cache
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.csproj.CoreCompileInputs.cache
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.exe
+G:\code\visual studio\Calculator11\Calculator11\obj\Debug\Calculator11.pdb
